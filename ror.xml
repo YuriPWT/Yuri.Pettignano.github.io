@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://yuripettignano.work/</title>
+  <link>https://yuripettignano.work/</link>
+
+<item>
+     <link>https://yuripettignano.work/</link>
+     <title>Yuri Pettignano</title>
+     <description>Mi chiamo Yuri Pettignano. Tra le mie abilità ed esperienze di lavoro digitale trovi: creazione siti, ottimizzazione SEO, SEM, campagne di marketing, build computer.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
