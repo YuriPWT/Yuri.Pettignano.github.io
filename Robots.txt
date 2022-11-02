@@ -1,0 +1,6 @@
+# Robots.txt file for yuripettignano.work
+
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /scripts/
+Disallow: /tmp/
