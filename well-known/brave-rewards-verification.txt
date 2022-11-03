@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: yuripettignano.work
+Token: e9facba59cc0f0f83cb3ea36ba28a9fe9f7d3bcb3d60f05cceb23a62a0c29e2a
